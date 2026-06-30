@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-YUDO",
+  "name": "誘導 YŪDŌ · YUD",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦誘導 YŪDŌ · YUD:yudo:1b6fb5⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "1b6fb5c83749eab2501ef85cba63f8bc23d71f865ad7227cca7eb48375dcea37",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
