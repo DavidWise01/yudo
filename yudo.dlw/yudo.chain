@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 381
+slug  : yudo
+seal  : 1b6fb5c83749eab2501ef85cba63f8bc23d71f865ad7227cca7eb48375dcea37
+prev  : d86d7cfc7501fc2e2168a6a7e637d04ea61b866ab8b16e975f3a876a14a31be7
+link  : 49bcc35be66564ae32e08746b5d8d5b5017a2905d35eeaac7aab48ce89844e7e
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
